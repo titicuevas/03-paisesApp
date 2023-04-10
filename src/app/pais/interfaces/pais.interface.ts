@@ -1,4 +1,6 @@
 export interface Country {
+aplha3Code: any;
+numericCode: string|number;
   name:         Name;
   tld:          string[];
   cca2:         string;
